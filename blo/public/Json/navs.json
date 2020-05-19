@@ -1,0 +1,28 @@
+{
+  "navList":[
+    {"name": "首页","path": "index"},
+    {"name": "博客","path": "blog"},
+    {"name": "学院","path": "collage"},
+    {"name": "下载","path": "download"},
+    {"name": "论坛","path": "luantan"},
+    {"name": "问答","path": "answer"},
+    {"name": "活动","path": "huodong"},
+    {"name": "招聘","path": "zhaoping"},
+    {"name": "APP","path": "App"},
+    {"name": "VIP","path": "VIP"}
+  ],
+  "Menu":[
+    {"name":"推荐","id":"tuijian","state":""},
+    {"name":"动态","id":"dongtai","state":""},
+    {"name":"程序人生","id":"3","state":""},
+    {"name":"Python","id":"4","state":""},
+    {"name":"Java","id":"5","state":""},
+    {"name":"前端","id":"6","state":""},
+    {"name":"架构","id":"7","state":""},
+    {"name":"区块链","id":"8","state":""},
+    {"name":"数据库开发","id":"9","state":""},
+    {"name":"游戏开发","id":"10","state":""},
+    {"name":"移动开发","id":"11","state":""},
+    {"name":"运维","id":"12","state":""}
+  ]
+}
